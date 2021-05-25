@@ -134,8 +134,8 @@
 - Of, relating to, or operated by electricity.
 - A bloodborne ability capable of zapping away Strikes.
 
-## `E||||||||`
-- `||| ||||`.
+## `Elsewhere`
+- `Not Here`.
 
 ## Endseason
 - A period of Rest bridging the Lateseason and the Earlpostseason.
