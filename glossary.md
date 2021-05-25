@@ -116,16 +116,16 @@
 - The time of the Seasonal Reading.
 
 ## `Ego+`
-- `A |||||||||||||| concept |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||||.`
 
 ## `Ego++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||||.`
 
 ## `Ego+++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| ||||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| |||||.`
 
 ## `Ego++++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| |||||||| |||||`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| critical mass.`
 
 ## Election
 - A formal group decision-making process by which Fans spend Votes in exchange for divine favor.
@@ -251,7 +251,7 @@
 - The annual championship series of Internet League Blaseball, contested since Season 6 of the Discipline Era, between the champion teams of the Wild League and the Mild League.
 
 ## Inverted
-- `A physical concept ||||||||| || |||||||| ||||||| | ||||||| ||||||| |||||||`
+- `A physical concept ||||||||| || |||||||| ||||||| | ||||||| ||||||| ||||||.`
 
 ## Latepostseason
 - The period of the Postseason comprising the Wild League Championship Series, the Mild League Championship Series, and the Internet Series.
@@ -263,7 +263,7 @@
 - The period of the Regular Season beginning at the end of the Latesiesta and ending at the beginning of the Endseason.
 
 ## `Legendary`
-- `A physical concept |||||||| ||||| ||| |||| |||||||| |||||||| ||||| || ||||| ||||| |||||| |||||| |||||||`
+- `A physical concept |||||||| ||||| ||| |||| |||||||| |||||||| ||||| || ||||| ||||| |||||| |||||| ||||||.`
 
 ## Liberated
 - Free from domination, control, or influence.
@@ -334,7 +334,7 @@
 - Awaiting decision or settlement.
 
 ## Percolated
-- `|||| |||||| ||| |||| ||||| ||| |||||||||| |||||||||||`
+- `|||| |||||| ||| |||| ||||| ||| |||||||||| ||||||||||.`
 
 ## Perk
 - A reward of Percolated energy.
@@ -488,7 +488,7 @@
 ## Targeted Shame
 - A curse that adds Unruns to a Shamed Team's pile for the following game.
 
-## `The ||||`
+## `The Book`
 - Is.
 
 ## The Coffee Cup
