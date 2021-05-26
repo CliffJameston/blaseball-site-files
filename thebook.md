@@ -72,7 +72,7 @@
 * c. It is known that the majority of the icons on the site are sourced from Game-Icons.net. `||||||||` thank the authors immensely. Individual author credits coming soon.
 
 ### Signed,
-* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`allmonitor`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`equitas Equitas`,  `||||`,  N`||||||`,  `||`,  `||||||`,  ~~M~~`r. Peanut`
+* `||||`,  `||||`,  `||||||||`,  `|||||||`,  `||||||||`,  `|||||||||`,  `|||||||`,  `||||`,  `||||||`,  H`allmonitor`,  `||||||`,  `|||||||`,  `||||| ||||`,  A`equita Equity`,  `||||`,  N`||||||`,  `||`,  `||||||`,  ~~M~~`r. Peanut`
 
 ## Expansions
 

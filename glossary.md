@@ -30,7 +30,7 @@
 ## Black Hole
 - Weather.
 - A celestial object formed when a` Sun `runs out of fuel.
-- A region of Immateria with a gravitational field and` |||||||| `so strong that nothing can escape it.
+- A region of Immateria with a gravitational field and` polarity `so strong that nothing can escape it.
 
 ## Blaserunning
 - The act of scoring .2 Runs for your Team whenever you steal a base.
