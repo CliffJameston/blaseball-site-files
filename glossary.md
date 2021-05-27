@@ -125,7 +125,7 @@
 - `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| |||| |||| |||||.`
 
 ## `Ego++++`
-- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| ||| |||| ||||||| critical mass.`
+- `A |||||||||||||| ||||||| |||||||| ||||||| |||||||| ||||| and have reached critical mass.`
 
 ## Election
 - A formal group decision-making process by which Fans spend Votes in exchange for divine favor.
