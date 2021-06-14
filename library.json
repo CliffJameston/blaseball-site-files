@@ -1,3 +1,5 @@
+// 20210613210918
+// https://raw.githubusercontent.com/xSke/blaseball-site-files/main/data/library.json
 [
     {
         "title": "Root",
@@ -34,18 +36,14 @@
                 "redacted": false
             },
             {
-                "title": "|||||| |",
-                "ideas": "Season A",
-                "counts": "",
-                "id": "972adba7-6524-4302-9d71-d35374153e83",
-                "redacted": true
+                "title": "Season A",
+                "id": "424cf389-4be5-4def-bae7-7b04f58b885a",
+                "redacted": false
             },
             {
-                "title": "|||||||| |",
-                "ideas": "Election A",
-                "counts": "",
-                "id": "cb2e486e-551c-4fc1-bc80-a5d56119f840",
-                "redacted": true
+                "title": "Postseason A",
+                "id": "41e0bf9a-1854-472c-b5be-ad485c05146e",
+                "redacted": false
             },
             {
                 "title": "|||||| |",
