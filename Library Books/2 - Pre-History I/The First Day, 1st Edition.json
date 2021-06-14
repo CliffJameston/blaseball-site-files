@@ -1,0 +1,703 @@
+[
+    {
+        "id": "ec9a7434-517a-4c0a-9dae-608725add336",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                "namerifeht"
+            ]
+        },
+        "created": "1983-02-12T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 201,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "Sun 1 was Forged by Namerifeht."
+    },
+    {
+        "id": "b0b18eb1-2e86-4556-9ecc-9175eb149163",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                ""
+            ]
+        },
+        "created": "1983-02-17T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 201,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "Five Bases were Placed."
+    },
+    {
+        "id": "5ece04a9-97e7-4dbf-a2b1-eb8c9441b657",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": 5
+        },
+        "created": "2021-05-10T07:33:22.941Z",
+        "season": 17,
+        "tournament": -1,
+        "type": 29,
+        "day": 0,
+        "phase": 0,
+        "category": 3,
+        "description": "\"Accretion.\""
+    },
+    {
+        "id": "cd6bd1e4-fca3-4dd0-a442-c40d072ce065",
+        "playerTags": [],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 138,
+        "day": 0,
+        "phase": 0,
+        "category": 1,
+        "description": "The Alaskan Immortals joined Ultra League Blaseball!"
+    },
+    {
+        "id": "45240e02-7489-4420-bf3c-59246f2a9783",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||||| ||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "b1211f27-7677-481f-9a74-5dcddece8f03",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "27bbbc59-09de-4508-a3ee-8925a007b075",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| ||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| ||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "3ecec3f6-fda1-4caf-b2aa-56564a2332d6",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||||||| |||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||||||| |||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "c302e3e5-3dfb-4564-8e6f-026d296de39c",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| ||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| ||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "a572de34-4346-4ca0-9b32-51c310275a1d",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||| |||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "97601bf8-d4e1-4d3e-9fa4-16a423142a65",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||||| |||| ||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||||| |||| ||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "b3d26c98-2967-4516-be5f-ff05c429cff4",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "c51c6770-2efb-453e-ae7e-26d65dfd1b5a",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||| |||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||| |||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "c55c0b6b-b327-4246-8e32-e09d90f7a559",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| ||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||| ||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "a82a82cb-9533-4c7e-af36-fbeadea5b68a",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||| |||||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||| |||||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "4692e9f8-51cb-4f41-a928-8147dfce8be7",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "ca223c93-b6b6-4197-835e-1ff0ad1dff54",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| ||||||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||| ||||||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "03efb479-1148-4651-89eb-40988fce730a",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "b5672268-e75a-4089-abaa-aa3a5bb34007",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||| |||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "7141d3c4-060a-408c-a7ed-623c748b204a",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| ||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||| ||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "9a3ddb6c-0baf-46ac-b678-93ced7491940",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||| |||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||| |||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "367f7314-2a59-41d4-9b92-2c2e8516e39e",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||||||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||||||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "1a8f8ee7-9e31-47ff-96f1-7d82e66ff37f",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "26b90211-c69d-49ff-bacf-90afda1dd4ec",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| ||||||||| ||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||| ||||||||| ||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "5e521154-78d8-4003-a7f4-f2fef8e141df",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| |||| ||||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||| |||| ||||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "1fa53702-c3f6-494b-b560-46f00506c129",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| ||||||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||||| ||||||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "5f251471-8f6b-4fd6-8784-841fe3e40391",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "23094991-7073-45f2-94fc-313c9278b268",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||| |||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||| |||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "1af9c4a3-b83b-4198-9ef0-1d1d3ad837fe",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The |||||| |||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "fcb8fc26-ab77-4549-946e-07ad8a4c2037",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| |||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||| |||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "4ff56b52-8491-4e91-9ee3-9c5994b8da54",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| ||||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||| ||||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "03c44051-7ffc-455b-987e-3348fba2e42b",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| |||||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||| |||||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "f9ce26d1-2f58-48b9-857c-b6be720805eb",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 0,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||||||| ||||| |||||| ||||| |||||| ||||||||||",
+        "ideas":       "The ||||||||||| ||||| joined Ultra League Blaseball!",
+        "counts": ""
+    },
+    {
+        "id": "38ea27b4-acb0-40e7-a967-dd582316c7ff",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                "umpires"
+            ]
+        },
+        "created": "1983-02-25T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 201,
+        "day": 0,
+        "phase": 2,
+        "category": 1,
+        "description": "An Umpire Appeared."
+    },
+    {
+        "id": "d551bc9b-ecc3-4e76-bcd1-f9b7cd3444e2",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1983-03-01T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 202,
+        "day": 0,
+        "phase": 2,
+        "category": 2,
+        "description": "Rejoice!"
+    },
+    {
+        "id": "95fae3b1-137c-487d-9486-00d75ad1ac0b",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1983-03-01T00:00:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 1,
+        "day": 0,
+        "phase": 2,
+        "category": 0,
+        "description": "Play Ball!"
+    }
+]

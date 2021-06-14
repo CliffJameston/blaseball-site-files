@@ -1,0 +1,539 @@
+[
+    {
+        "id": "83463686-0fd5-4c6f-b5c0-68f8f37b7985",
+        "playerTags": [],
+        "teamTags": [
+            "adc5b394-8f76-416d-9ce9-813706877b84"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "0"
+        },
+        "created": "1983-08-09T14:00:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Breath Mints finished 1st in the Good League.",
+        "nuts": 25
+    },
+    {
+        "id": "d5984c7c-99e9-45f9-8e51-0b4a6deb69e1",
+        "playerTags": [],
+        "teamTags": [
+            "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "1"
+        },
+        "created": "1983-08-09T14:00:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Boston Flowers finished 2nd in the Good League.",
+        "nuts": 23
+    },
+    {
+        "id": "451a181a-6af3-4944-af7d-2f4fa4ed03d2",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-09T14:00:30.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 7,
+        "category": -1,
+        "description": "||| ||||||||||| |||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "19d1dd40-60be-4a7e-bc22-30cd927e5420",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-09T14:00:40.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 7,
+        "category": -1,
+        "description": "||| ||||||||| ||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "5288f476-1c21-4984-89ca-cb33efb2d4e7",
+        "playerTags": [],
+        "teamTags": [
+            "979aee4a-6d80-4863-bf1c-ee1a78e06024"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "4"
+        },
+        "created": "1983-08-09T14:00:50.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Hawai’i Fridays finished 5th in the Good League.",
+        "nuts": 24
+    },
+    {
+        "id": "17bda2ac-d8d4-4c54-bc44-7e7579b956cd",
+        "playerTags": [],
+        "teamTags": [
+            "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "0"
+        },
+        "created": "1983-08-09T14:01:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Philly Pies finished 1st in the Bad League.",
+        "nuts": 24
+    },
+    {
+        "id": "524fe637-479b-4449-9767-4f114c2d1412",
+        "playerTags": [],
+        "teamTags": [
+            "f02aeae2-5e6a-4098-9842-02d2273f25c7"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "1"
+        },
+        "created": "1983-08-09T14:01:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Moab Sunbeams finished 2nd in the Bad League.",
+        "nuts": 24
+    },
+    {
+        "id": "9b3075ea-83e2-46ab-b9dd-c8ced95a53fd",
+        "playerTags": [],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "2"
+        },
+        "created": "1983-08-09T14:01:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 7,
+        "category": 3,
+        "description": "The Alaskan Immortals finished 3rd in the Bad League.",
+        "nuts": 42
+    },
+    {
+        "id": "cbc77b71-dd0e-4ab8-9ac9-a879eacc2ad0",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-09T14:01:30.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 7,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||||| ||| || ||| ||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "646452c1-27d3-448d-8ae9-e5c08fa4dfa8",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-09T14:01:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 7,
+        "category": -1,
+        "description": "||| |||||| |||| |||||||| ||| || ||| ||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "e9802112-9d7e-4e28-9683-82cc35b05235",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-10T14:01:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 162,
+        "phase": 11,
+        "category": -1,
+        "description": "||||||||| ||||| ||| ||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "750730f7-85c1-4291-bc0d-80bb805816f1",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-10T14:01:30.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 162,
+        "phase": 11,
+        "category": -1,
+        "description": "||||||||| ||||||||| ||| |||||| ||||",
+        "nuts": 0
+    },
+    {
+        "id": "b0fa7f56-959d-42a6-ac5e-7904c1ac3ada",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-15T14:01:50.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 167,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||||| || ||||| | || ||| |||||| | |||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "2c7ff6df-7f69-46e5-974b-b7c7299da2a2",
+        "playerTags": [],
+        "teamTags": [
+            "979aee4a-6d80-4863-bf1c-ee1a78e06024"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1983-08-16T14:02:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": 159,
+        "day": 168,
+        "phase": 11,
+        "category": 3,
+        "description": "The Hawai’i Fridays advanced to Round 2 of the Season A Postseason",
+        "nuts": 23
+    },
+    {
+        "id": "ebb8b3b3-8ca7-4751-9eeb-b120b6d93f31",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-17T14:02:30.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 11,
+        "category": -1,
+        "description": "|||||| |||| |||||| ||||| ||| ||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "a7e57c9a-b3e3-4573-abab-5d76ee1ca866",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-17T14:02:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 11,
+        "category": -1,
+        "description": "|||||| ||||||| ||| ||||||||||| ||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "ee0d625f-600d-479e-91a6-ac0ca4f591a7",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-17T14:02:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 11,
+        "category": -1,
+        "description": "|||||| |||| || ||||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "f4054264-c7cb-4ce9-ae79-51b7332c7361",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-17T14:02:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 11,
+        "category": -1,
+        "description": "|||| |||||||| || ||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "e55b47d2-cc7c-430a-88d6-5b4a3585bad5",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-21T14:02:40.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 173,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||| ||||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "86ff56ba-bf40-4d60-b49a-0ec23df309fd",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-21T14:02:50.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 173,
+        "phase": 11,
+        "category": -1,
+        "description": "||| |||||| |||| |||||||| || ||| |||||| | ||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "c6810e80-706f-4e9c-a7e3-c8d73bd7c714",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-22T14:03:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 174,
+        "phase": 11,
+        "category": -1,
+        "description": "||| |||||| ||||||||| |||||||| || ||| |||||| | ||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "bc1f69b6-f9a6-4538-a0b0-24becd5b2dd0",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-23T14:03:30.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 175,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||||||| |||||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "a92d842e-9bfd-47df-b887-bf4d7bdf458c",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-24T14:03:10.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 176,
+        "phase": 11,
+        "category": -1,
+        "description": "||||||| ||||||| ||| ||||||||||| ||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "1df486a6-298e-473c-92ce-64af5e6b53d4",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-24T14:03:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 176,
+        "phase": 11,
+        "category": -1,
+        "description": "|||||| |||| ||| ||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "e227b24b-c9bd-4858-906d-562c95826de2",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-29T14:03:40.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 181,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||||||| |||||||| |||||||| || ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "d97539c6-fde8-4cd4-8abe-c528710926b7",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-30T14:04:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 182,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||| ||||||||| |||||||| || ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "d89a8eea-0932-48ba-9f84-776dd12d8183",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-08-31T14:04:20.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 183,
+        "phase": 11,
+        "category": -1,
+        "description": "||||||| ||||||||| ||| ||||||||||| ||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "f89aa4f1-3dc0-4688-8180-9136d78d22ed",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1983-09-04T14:04:00.000Z",
+        "season": -99,
+        "tournament": -1,
+        "type": -1,
+        "day": 186,
+        "phase": 11,
+        "category": -1,
+        "description": "||| ||||||| ||||||||| ||| ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    }
+]
