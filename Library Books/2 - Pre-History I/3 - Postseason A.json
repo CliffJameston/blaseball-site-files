@@ -54,8 +54,8 @@
         "phase": 7,
         "category": -1,
         "description": "||| ||||||||||| |||||||| |||||||| ||| || ||| |||| |||||||",
-        "ideas":       "The ||||||||||| |||||||| finished 3rd in the Good League.",
-        "counts": ""
+        "ideas":       "The ||||||||||| |||||||| finished 3rd in the Good League. (Team #19)",
+        "counts": "11, 8"
     },
     {
         "id": "19d1dd40-60be-4a7e-bc22-30cd927e5420",
@@ -74,8 +74,8 @@
         "phase": 7,
         "category": -1,
         "description": "||| ||||||||| ||||| |||||||| ||| || ||| |||| |||||||",
-        "ideas":       "The ||||||||| ||||| finished 4th in the Good League.",
-        "counts": ""
+        "ideas":       "The ||||||||| ||||| finished 4th in the Good League. (Team #3)",
+        "counts": "9, 5"
     },
     {
         "id": "5288f476-1c21-4984-89ca-cb33efb2d4e7",
@@ -170,8 +170,8 @@
         "phase": 7,
         "category": -1,
         "description": "||| ||||||||| ||||||||| |||||||| ||| || ||| ||| |||||||",
-        "ideas":       "The ||||||||| ||||||||| finished 4th in the Bad League.",
-        "counts": ""
+        "ideas":       "The ||||||||| ||||||||| finished 4th in the Bad League. (Team #2)",
+        "counts": "9, 9"
     },
     {
         "id": "646452c1-27d3-448d-8ae9-e5c08fa4dfa8",
@@ -190,8 +190,8 @@
         "phase": 7,
         "category": -1,
         "description": "||| |||||| |||| |||||||| ||| || ||| ||| |||||||",
-        "ideas":       "The |||||| |||| finished 5th in the Bad League.",
-        "counts": ""
+        "ideas":       "The |||||| |||| finished 5th in the Bad League. (Team #9)",
+        "counts": "6, 4"
     },
     {
         "id": "e9802112-9d7e-4e28-9683-82cc35b05235",
