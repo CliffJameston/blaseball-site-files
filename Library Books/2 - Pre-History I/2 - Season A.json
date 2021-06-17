@@ -855,7 +855,7 @@
         "phase": 7,
         "category": -1,
         "description": "||||| ||| || ||||| || |||",
-        "ideas":       "||||| ||| || ||||| || |||",
+        "ideas":       "||||| ||| is named an MVP",
         "counts": ""
     },
     {
@@ -875,7 +875,7 @@
         "phase": 7,
         "category": -1,
         "description": "|||| |||||||| || ||||| || |||",
-        "ideas":       "|||| |||||||| || ||||| || |||",
+        "ideas":       "|||| |||||||| is named an MVP",
         "counts": ""
     },
     {
@@ -895,7 +895,7 @@
         "phase": 7,
         "category": -1,
         "description": "|||||| |||||| || ||||| || |||",
-        "ideas":       "|||||| |||||| || ||||| || |||",
+        "ideas":       "|||||| |||||| is named an MVP (Fletcher Berger doesn't fit, but needs to go *somewhere*)",
         "counts": ""
     },
     {
@@ -915,7 +915,7 @@
         "phase": 7,
         "category": -1,
         "description": "||||| ||||| || ||||| || |||",
-        "ideas":       "||||| ||||| || ||||| || |||",
+        "ideas":       "James Nolan is named an MVP",
         "counts": ""
     },
     {
@@ -935,7 +935,7 @@
         "phase": 7,
         "category": -1,
         "description": "|||||| ||||||||| || ||||| || |||",
-        "ideas":       "|||||| ||||||||| || ||||| || |||",
+        "ideas":       "|||||| ||||||||| is named an MVP",
         "counts": ""
     }
 ]
