@@ -44,11 +44,9 @@
                 "redacted": false
             },
             {
-                "title": "|||||| |",
-                "ideas": "Season B",
-                "counts": "",
-                "id": "d35b3910-b294-4633-a5b6-f126d4fa66dc",
-                "redacted": true
+                "title": "Season B",
+                "id": "cd3393dd-675b-41e6-8550-6375c40e905a",
+                "redacted": false
             },
             {
                 "title": "|||||||| ||||",
@@ -58,11 +56,9 @@
                 "redacted": true
             },
             {
-                "title": "||||| ||||| |||||||||",
-                "ideas": "",
-                "counts": "5, 5, 9",
-                "id": "12d3c673-b0d4-4c30-a0c6-e1894189e1c7",
-                "redacted": true
+                "title": "Postseason B",
+                "id": "47286fff-1dee-453c-ad61-98f08cb9ac8a",
+                "redacted": false
             },
             {
                 "title": "|||||||| |",

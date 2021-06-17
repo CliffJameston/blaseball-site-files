@@ -1,0 +1,537 @@
+[
+    {
+        "id": "8d25cd29-94d6-4355-be17-e83b46ad3901",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:00:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| ||||||||| ||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "efbbd15f-24ad-45e8-8f67-786bc8546de8",
+        "playerTags": [],
+        "teamTags": [
+            "979aee4a-6d80-4863-bf1c-ee1a78e06024"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "1"
+        },
+        "created": "1984-08-09T14:00:20.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 6,
+        "category": 3,
+        "description": "The Hawai'i Fridays finished 2nd in the Good League.",
+        "nuts": 13
+    },
+    {
+        "id": "4b8164a7-a8ba-48a7-bf58-8823444f327f",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:00:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| ||||||| |||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "4dacd55a-d7e2-43d8-8980-d6e1c8bf39f4",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:00:40.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| |||||||| ||||||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "49404d1c-9efc-4889-813a-b509f2e30629",
+        "playerTags": [],
+        "teamTags": [
+            "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "4"
+        },
+        "created": "1984-08-09T14:00:50.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 6,
+        "category": 3,
+        "description": "The Boston Flowers finished 5th in the Good League.",
+        "nuts": 14
+    },
+    {
+        "id": "7d0281cd-a55c-409b-9ec6-9c9862ccd13a",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:01:00.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| |||||| |||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "9f96505d-b648-48fc-804f-e8afa60d21eb",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:01:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "cace2698-7091-457c-9185-43b8a5a55730",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:01:20.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| ||| ||||| |||||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "077e083e-698f-4b1a-8093-2fc9c4b7bbc2",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-09T14:01:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 161,
+        "phase": 6,
+        "category": -1,
+        "description": "||| ||||||| |||||| |||||||| ||| || ||| |||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "d354aab8-c797-4fb7-9445-388762e08cd0",
+        "playerTags": [],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "place": "4"
+        },
+        "created": "1984-08-09T14:01:00.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": 143,
+        "day": 161,
+        "phase": 6,
+        "category": 3,
+        "description": "The Alaskan Immortals finished 5th in the Evil League.",
+        "nuts": 21
+    },
+    {
+        "id": "fe374599-374d-43e2-818b-5daed3131413",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-10T14:01:20.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 162,
+        "phase": 10,
+        "category": -1,
+        "description": "|||||||| ||||||||||| ||| |||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "51d995f7-c465-4280-a1b2-909353bc079e",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-10T14:01:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 162,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||| |||||| ||| ||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "5726790f-6db3-4e3a-b1ed-8f1b31bfde97",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-13T14:01:50.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 165,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||| |||||| |||||||| || ||||| | || ||| |||||| | |||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "ef564b41-bc15-40a6-82ae-7d2d7a6877fb",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-16T14:02:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 168,
+        "phase": 10,
+        "category": -1,
+        "description": "||| |||||| ||||||| |||||||| || ||||| | || ||| |||||| | |||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "09727679-9ea2-4d75-a6a6-1d8b4949e7a7",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-17T14:02:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 10,
+        "category": -1,
+        "description": "|||||| |||||||| ||| ||| ||||| ||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "3e3e76f6-af82-4bc3-8841-a558502686a2",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-17T14:02:00.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||| ||||||| ||| |||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "457ab8ef-f544-44b5-b3ba-78c9a5e47d2d",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-17T14:02:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||||| ||||| ||| ||||||| ||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "be1603f5-48ba-4894-8ef7-6b797bb5860d",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-17T14:02:20.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 169,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||||| ||||||||| ||| ||||||| ||||||",
+        "nuts": 0
+    },
+    {
+        "id": "ef98ae01-b470-4a6d-bd45-54a8eead28b4",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-21T14:02:40.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 173,
+        "phase": 10,
+        "category": -1,
+        "description": "||| |||||| |||||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "ae8b4e32-0af1-43a8-8cb2-9940e5630f28",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-22T14:03:00.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 174,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||||| ||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "f72c8718-610f-4d77-86b0-6af440e203ef",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-22T14:03:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 174,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "fe718fe5-c920-455d-bcad-543cf0266149",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-22T14:03:20.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 174,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||| ||||||| |||||||| || ||| |||||| | |||| |||||| |||||||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "ac0811d2-3151-4652-aecd-cd8bb99100c0",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-23T14:03:00.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 175,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||||| ||||| ||| ||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "9c6e338a-2ed9-46e1-94fc-ee64f9102851",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-23T14:03:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 175,
+        "phase": 10,
+        "category": -1,
+        "description": "|||||| |||||||| ||| ||||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "c1290b30-b4e8-4de6-b748-7fb1c221028c",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-28T14:03:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 180,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||||| ||||| |||||||| || ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "0acdf853-b686-4544-9042-9a5c1a43d862",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-29T14:03:50.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 181,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||||| ||||||||| |||||||| || ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "e86c38dc-e380-47d3-90da-69cd2638afe1",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-08-30T14:04:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 182,
+        "phase": 10,
+        "category": -1,
+        "description": "||||||||| ||||| ||| ||||||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "580e753d-3609-4388-9bc0-fbd88eaaa903",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-09-05T14:04:30.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 188,
+        "phase": 10,
+        "category": -1,
+        "description": "||| ||||||||| ||||| ||| ||| |||||| | |||||||| |||||||",
+        "nuts": 0
+    }
+]
