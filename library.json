@@ -44,16 +44,16 @@
                 "redacted": false
             },
             {
-                "title": "Season B",
-                "id": "cd3393dd-675b-41e6-8550-6375c40e905a",
-                "redacted": false
-            },
-            {
                 "title": "|||||||| ||||",
                 "ideas": "Becoming Evil",
                 "counts": "8, 4",
                 "id": "016c0975-4806-4229-9a40-aba4a75a8382",
                 "redacted": true
+            },
+            {
+                "title": "Season B",
+                "id": "cd3393dd-675b-41e6-8550-6375c40e905a",
+                "redacted": false
             },
             {
                 "title": "Postseason B",
@@ -164,11 +164,9 @@
         "title": "Pre-History II",
         "chapters": [
             {
-                "title": "||| ||||| |||| ||| |||||||",
-                "ideas": "The First Day, 2nd Edition",
-                "counts": "3, 5, 4, 3, 7",
-                "id": "4de3649f-bbcf-4e09-b1b6-c9a35e4b817d",
-                "redacted": true
+                "title": "The First Day, 2nd Edition",
+                "id": "3a3062e1-24b1-4cb4-a778-fbb9e5160adf",
+                "redacted": false
             },
             {
                 "title": "|||||| ||",
@@ -573,11 +571,9 @@
                 "redacted": true
             },
             {
-                "title": "|||||| || ||||||| |||||||",
-                "ideas": "Season 7, Getting Shelled",
-                "counts": "",
-                "id": "645d22b6-696b-4630-a706-ef268172df6f",
-                "redacted": true
+                "title": "A Return",
+                "id": "9114a2e4-3bc1-40b6-ad8e-76e212b3e2ba",
+                "redacted": false
             },
             {
                 "title": "A Ruby Tuesday",
