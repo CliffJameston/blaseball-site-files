@@ -1,0 +1,666 @@
+// 20210621134704
+// https://www.blaseball.com/database/feed/story?id=3a3062e1-24b1-4cb4-a778-fbb9e5160adf
+[
+    {
+        "id": "bea675c2-55ff-407f-bc7e-bb945ed1cd03",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                "namerifeht"
+            ]
+        },
+        "created": "2000-01-01T14:00:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 201,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "Sun 1 was Refilled by Namerifeht.",
+        "nuts": 63
+    },
+    {
+        "id": "386b668a-54b0-4e59-ad81-dcaafaa8bfca",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                ""
+            ]
+        },
+        "created": "2000-01-01T14:00:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 201,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "Four Bases were Placed.",
+        "nuts": 57
+    },
+    {
+        "id": "2332070f-fd8a-4b44-af03-38ca9f265e56",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "5"
+        },
+        "created": "2021-06-18T14:14:49.000Z",
+        "season": 19,
+        "tournament": -1,
+        "type": 29,
+        "day": -1,
+        "phase": 0,
+        "category": 3,
+        "description": "\"Accretion.\"",
+        "nuts": 54
+    },
+    {
+        "id": "036de4a8-dab0-49c3-af52-96fc68619b7b",
+        "playerTags": [],
+        "teamTags": [
+            "3f8bbb15-61c0-4e3f-8e4a-907a5fb1565e"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:00:40.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Boston Flowers joined Internet League Blaseball!",
+        "nuts": 51
+    },
+    {
+        "id": "cfd35438-03b7-4d64-9d64-d04069e0abec",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:00:50.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| ||| ||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "bf8c2d09-bb54-400a-ab97-4f1fff5c4182",
+        "playerTags": [],
+        "teamTags": [
+            "a37f9158-7f82-46bc-908c-c9e2dda7c33b"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:01:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Breckenridge Jazz Hands joined Internet League Blaseball!",
+        "nuts": 47
+    },
+    {
+        "id": "7fccbf3e-3ddb-4ae0-9089-0507205e9e7f",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:01:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||| ||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "0895fbd3-dea7-4c07-b86c-63547fa5ce8c",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:01:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||| ||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "8780c9a5-8154-4079-92b2-4e922ead3a32",
+        "playerTags": [],
+        "teamTags": [
+            "bfd38797-8404-4b38-8b82-341da28b1f83"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:01:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Charleston Shoe Thieves joined Internet League Blaseball!",
+        "nuts": 51
+    },
+    {
+        "id": "078235b4-6750-42e9-b53c-21e891615de2",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:01:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| |||||||||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "f0222b0d-a207-4980-9ff5-e7010f905989",
+        "playerTags": [],
+        "teamTags": [
+            "b024e975-1c4a-4575-8936-a3754a08806a"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:01:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Dallas Steaks joined Internet League Blaseball!",
+        "nuts": 49
+    },
+    {
+        "id": "20424e4f-113a-4384-a7e1-7999a3970a2b",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:01:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "b3b11a4c-78cd-4694-aa76-8b7767c3a76e",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:01:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||||||||||| |||||| |||||||| |||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "0c51fce5-687e-41d5-9d54-592cb2885e68",
+        "playerTags": [],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:01:40.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Hades Tigers joined Internet League Blaseball!",
+        "nuts": 50
+    },
+    {
+        "id": "7bf74f3e-3094-49d4-a79e-b8d6b110e902",
+        "playerTags": [],
+        "teamTags": [
+            "979aee4a-6d80-4863-bf1c-ee1a78e06024"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:01:50.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Hawai'i Fridays joined Internet League Blaseball!",
+        "nuts": 49
+    },
+    {
+        "id": "a5a64935-fbeb-474c-af0c-9737c0abcf07",
+        "playerTags": [],
+        "teamTags": [
+            "adc5b394-8f76-416d-9ce9-813706877b84"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Kansas City Breath Mints joined Internet League Blaseball!",
+        "nuts": 50
+    },
+    {
+        "id": "681653ae-abad-497b-9f38-f55e1635f798",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:02:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| || ||| |||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "3b04f544-629d-4e09-83a0-4bf2576f7fe6",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:02:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| |||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "9da84aa4-7c19-4911-b7c8-9583c7aa3404",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:02:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||| ||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "12f46cc0-0421-491e-8809-6a0a932be5d6",
+        "playerTags": [],
+        "teamTags": [
+            "878c1bf6-0d21-4659-bfee-916c8314d69c"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Los Angeles Tacos joined Internet League Blaseball!",
+        "nuts": 50
+    },
+    {
+        "id": "f1b0877a-41de-4d7b-8b77-2da2601d815e",
+        "playerTags": [],
+        "teamTags": [
+            "57ec08cc-0411-4643-b304-0e80dbc15ac7"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Mexico City Wild Wings joined Internet League Blaseball!",
+        "nuts": 49
+    },
+    {
+        "id": "170dccb4-41ff-4af7-b5f3-458c2b7755ed",
+        "playerTags": [],
+        "teamTags": [
+            "b63be8c2-576a-4d6e-8daf-814f8bcea96f"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Miami Dale joined Internet League Blaseball!",
+        "nuts": 48
+    },
+    {
+        "id": "957cd8cf-fc71-4a8f-90ca-6709a551f309",
+        "playerTags": [],
+        "teamTags": [
+            "f02aeae2-5e6a-4098-9842-02d2273f25c7"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Moab Sunbeams joined Internet League Blaseball!",
+        "nuts": 52
+    },
+    {
+        "id": "0fa7fe61-04f9-4e74-9798-8d10badac32f",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:02:40.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| ||||||||| ||||||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "f31e2edf-e9e7-4c95-b145-333b6390583e",
+        "playerTags": [],
+        "teamTags": [
+            "36569151-a2fb-43c1-9df7-2df512424c82"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:02:50.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The New York Millennials joined Internet League Blaseball!",
+        "nuts": 50
+    },
+    {
+        "id": "31e70796-c734-4bc2-a998-cd539b73dc0a",
+        "playerTags": [],
+        "teamTags": [
+            "23e4cbc1-e9cd-47fa-a35b-bfa06f726cb7"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:03:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Philly Pies joined Internet League Blaseball!",
+        "nuts": 48
+    },
+    {
+        "id": "4304c43a-6826-4bca-9a75-623b92cf2fc8",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:03:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| |||||| |||||| |||||||| |||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "0b597fae-1657-4aa5-86ae-1be7aa14e279",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:03:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| |||||||| |||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "1af6347e-ec5c-4124-a315-9101026a1c95",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:03:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||| ||||| ||||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "5b6decee-9c10-45a5-8f7c-1709975560ca",
+        "playerTags": [],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:03:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Topeka Moist Talkers joined Internet League Blaseball!",
+        "nuts": 67
+    },
+    {
+        "id": "b313f012-7ce6-4b28-a01c-b05d88788fb1",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "2000-01-02T14:03:10.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": -1,
+        "day": -1,
+        "phase": 0,
+        "category": -1,
+        "description": "||| ||||||| |||||||| |||||| |||||||| |||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "50216c7c-b9c5-4732-b4e4-f4b736455dc4",
+        "playerTags": [],
+        "teamTags": [
+            "7966eb04-efcc-499b-8f03-d13916330531"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:03:20.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 138,
+        "day": -1,
+        "phase": 0,
+        "category": 1,
+        "description": "The Yellowstone Magic joined Internet League Blaseball!",
+        "nuts": 52
+    },
+    {
+        "id": "c0313115-bf0d-4db5-9d41-bfef3e8cb818",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "beings": [
+                "umpires"
+            ]
+        },
+        "created": "2000-01-02T14:03:30.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 201,
+        "day": 0,
+        "phase": 2,
+        "category": 1,
+        "description": "An Umpire Appeared.",
+        "nuts": 57
+    },
+    {
+        "id": "be903545-251e-44d2-bb43-667926604e92",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:03:40.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 202,
+        "day": 0,
+        "phase": 2,
+        "category": 1,
+        "description": "They Awoke.",
+        "nuts": 73
+    },
+    {
+        "id": "5073f0dc-cee5-41ab-9888-a90d2aa21d9a",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:03:50.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 202,
+        "day": 0,
+        "phase": 2,
+        "category": 2,
+        "description": "Rejoice!",
+        "nuts": 60
+    },
+    {
+        "id": "e41f04cf-951f-4de7-b3a4-713cf2a06ac8",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2000-01-02T14:04:00.000Z",
+        "season": -94,
+        "tournament": -1,
+        "type": 1,
+        "day": 0,
+        "phase": 2,
+        "category": 0,
+        "description": "Play Ball!",
+        "nuts": 62
+    }
+]

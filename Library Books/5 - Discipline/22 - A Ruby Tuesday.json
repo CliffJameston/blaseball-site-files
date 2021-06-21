@@ -1,0 +1,868 @@
+// 20210621134558
+// https://www.blaseball.com/database/feed/story?id=dcf7d279-1df0-47d0-a8c1-237a4ae98ebf
+[
+    {
+        "id": "11d8f66e-2f25-4d4c-b1f9-7975347238b8",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T14:00:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 3,
+        "day": 29,
+        "phase": 4,
+        "category": 0,
+        "description": "Jaylen Hotdogfingers took the mound against the Hades Tigers.",
+        "nuts": 367
+    },
+    {
+        "id": "488ee6c2-0ad7-4ffd-bbc6-3ec79a4069a4",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T14:02:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 22,
+        "day": 29,
+        "phase": 4,
+        "category": 2,
+        "description": "Jaylen Hotdogfingers hit Mclaughlin Scorpler with a pitch!",
+        "nuts": 281
+    },
+    {
+        "id": "62a0eb80-7b1c-402a-9902-84f15ca6d15a",
+        "playerTags": [
+            "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T14:02:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 29,
+        "phase": 4,
+        "category": 1,
+        "description": "Mclaughlin Scorpler became Unstable.",
+        "nuts": 256
+    },
+    {
+        "id": "231a4f74-99a0-40e7-a58a-00fd623d8468",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "70ccff1e-6b53-40e2-8844-0a28621cb33e"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T14:04:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 22,
+        "day": 29,
+        "phase": 4,
+        "category": 2,
+        "description": "Jaylen Hotdogfingers hit Moody Cookbook with a pitch!",
+        "nuts": 267
+    },
+    {
+        "id": "f79d02e6-fd14-4e35-93b1-43de4fa922ed",
+        "playerTags": [
+            "70ccff1e-6b53-40e2-8844-0a28621cb33e"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T14:04:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 29,
+        "phase": 4,
+        "category": 1,
+        "description": "Moody Cookbook became Unstable.",
+        "nuts": 255
+    },
+    {
+        "id": "94da8021-6016-419c-b1ae-15586cbea966",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T14:06:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 22,
+        "day": 29,
+        "phase": 4,
+        "category": 2,
+        "description": "Jaylen Hotdogfingers hit Zion Aliciakeyes with a pitch!",
+        "nuts": 256
+    },
+    {
+        "id": "c5b96a95-0c23-42d2-a872-ae4c0addb169",
+        "playerTags": [
+            "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T14:04:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 29,
+        "phase": 4,
+        "category": 1,
+        "description": "Zion Aliciakeyes became Unstable.",
+        "nuts": 243
+    },
+    {
+        "id": "d14184d9-d7f1-4fbc-b627-b1fb3798f3db",
+        "playerTags": [],
+        "teamTags": [
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "winner": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        },
+        "created": "2020-09-15T14:30:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 11,
+        "day": 29,
+        "phase": 4,
+        "category": 3,
+        "description": "Garages 10, Tigers 7",
+        "nuts": 239
+    },
+    {
+        "id": "a0748c6f-4687-416d-bc0a-5c56762539c6",
+        "playerTags": [],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "away": "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "home": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "weather": 7
+        },
+        "created": "2020-09-15T16:00:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 0,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "The Canada Moist Talkers vs. The Hades Tigers",
+        "nuts": 259
+    },
+    {
+        "id": "a9942e79-b845-455b-912f-34304a49a170",
+        "playerTags": [],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:06:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 2,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Top of 3. Hades Tigers batting.",
+        "nuts": 230
+    },
+    {
+        "id": "c0807970-d796-4543-9e28-0b129bc048ad",
+        "playerTags": [
+            "70ccff1e-6b53-40e2-8844-0a28621cb33e"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:06:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 12,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Moody Cookbook batting for the Tigers.",
+        "nuts": 305
+    },
+    {
+        "id": "b3538c07-97e3-4546-91d5-80a806dcb50a",
+        "playerTags": [
+            "70ccff1e-6b53-40e2-8844-0a28621cb33e"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:06:02.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 54,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Moody Cookbook!",
+        "nuts": 297
+    },
+    {
+        "id": "9a738cf4-3a21-4004-a269-ef92461b0c2a",
+        "playerTags": [
+            "70ccff1e-6b53-40e2-8844-0a28621cb33e",
+            "c18961e9-ef3f-4954-bd6b-9fe01c615186"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "location": 0,
+            "teamName": "Tigers",
+            "inPlayerId": "c18961e9-ef3f-4954-bd6b-9fe01c615186",
+            "outPlayerId": "70ccff1e-6b53-40e2-8844-0a28621cb33e",
+            "inPlayerName": "Carmelo Plums",
+            "outPlayerName": "Moody Cookbook"
+        },
+        "created": "2020-09-15T16:06:03.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 116,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "Carmelo Plums replaced the incinerated Moody Cookbook.",
+        "nuts": 269
+    },
+    {
+        "id": "476f1e3c-af23-4c5a-8846-703053baca98",
+        "playerTags": [
+            "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T16:06:04.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "The Instability spread to the Moist Talkers' Elijah Bates!",
+        "nuts": 240
+    },
+    {
+        "id": "ace721c9-9745-43ac-8924-265132a84281",
+        "playerTags": [],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:12:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 2,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Bottom of 6. Canada Moist Talkers batting.",
+        "nuts": 222
+    },
+    {
+        "id": "bef50a03-cd36-4a21-a95b-ed86fed8fd2d",
+        "playerTags": [
+            "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:12:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 12,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Elijah Bates batting for the Moist Talkers.",
+        "nuts": 230
+    },
+    {
+        "id": "23433dd2-f55e-4348-9301-215a237087b1",
+        "playerTags": [
+            "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:12:02.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 54,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "A Debt was collected. Rogue Umpire incinerated Moist Talkers hitter Elijah Bates!",
+        "nuts": 260
+    },
+    {
+        "id": "f530d24d-9cb4-4c72-95c7-d692cdff0fa0",
+        "playerTags": [
+            "98a98014-9636-4ece-a46a-4625b47c65d5",
+            "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "location": 0,
+            "teamName": "Moist Talkers",
+            "inPlayerId": "98a98014-9636-4ece-a46a-4625b47c65d5",
+            "outPlayerId": "d1a7c13f-8e78-4d2e-9cae-ebf3a5fcdb5d",
+            "inPlayerName": "Kiki Familia",
+            "outPlayerName": "Elijah Bates"
+        },
+        "created": "2020-09-15T16:12:03.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 116,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "Kiki Familia replaced the incinerated Elijah Bates.",
+        "nuts": 279
+    },
+    {
+        "id": "f45230c7-b9da-4f01-b081-9488ebd5826f",
+        "playerTags": [
+            "afc90398-b891-4cdf-9dea-af8a3a79d793"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T16:12:04.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "The Instability spread to the Tigers' Yazmin Mason!",
+        "nuts": 240
+    },
+    {
+        "id": "0ad24b50-1526-4adf-86eb-696381605ba5",
+        "playerTags": [],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:14:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 2,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Top of 7. Hades Tigers batting.",
+        "nuts": 224
+    },
+    {
+        "id": "fa260ad0-d1d9-4435-ab46-f4391b664195",
+        "playerTags": [
+            "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:14:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 12,
+        "day": 31,
+        "phase": 4,
+        "category": 0,
+        "description": "Mclaughlin Scorpler batting for the Tigers.",
+        "nuts": 284
+    },
+    {
+        "id": "82263d74-23b3-4e96-bb28-cdaa85c140a8",
+        "playerTags": [
+            "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T16:14:02.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 54,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "A Debt was collected. Rogue Umpire incinerated Tigers hitter Mclaughlin Scorpler!",
+        "nuts": 270
+    },
+    {
+        "id": "728e5b2e-e7dc-4751-9239-bcf0778c7049",
+        "playerTags": [
+            "be35caba-b16a-4e0d-b927-4da857f4cdb5",
+            "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "location": 0,
+            "teamName": "Tigers",
+            "inPlayerId": "be35caba-b16a-4e0d-b927-4da857f4cdb5",
+            "outPlayerId": "a311c089-0df4-46bd-9f5d-8c45c7eb5ae2",
+            "inPlayerName": "Frasier Shmurmgle",
+            "outPlayerName": "Mclaughlin Scorpler"
+        },
+        "created": "2020-09-15T16:14:03.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 116,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "Frasier Shmurmgle replaced the incinerated Mclaughlin Scorpler.",
+        "nuts": 252
+    },
+    {
+        "id": "38e69d23-d6ba-4260-a7fb-831ef3ad6d08",
+        "playerTags": [
+            "248ccf3d-d5f6-4b69-83d9-40230ca909cd"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T16:14:04.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 31,
+        "phase": 4,
+        "category": 1,
+        "description": "The Instability spread to the Moist Talkers' Antonio Wallace!",
+        "nuts": 234
+    },
+    {
+        "id": "85d40a72-c5aa-42dd-8334-0dcb9e318f3a",
+        "playerTags": [],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "winner": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        },
+        "created": "2020-09-15T16:30:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 11,
+        "day": 31,
+        "phase": 4,
+        "category": 3,
+        "description": "Tigers 6, Moist Talkers 7",
+        "nuts": 225
+    },
+    {
+        "id": "53a8a08f-bd2f-4d48-9c37-633386d99b98",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": -1
+        },
+        "created": "2020-09-15T17:00:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 31,
+        "phase": 4,
+        "category": 3,
+        "description": "SIESTA. EVERYONE GO TO SLEEP.",
+        "nuts": 412
+    },
+    {
+        "id": "3dac8379-2b99-4779-9ce0-afcc8c34004e",
+        "playerTags": [],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "away": "747b8e4a-7e50-4638-a973-ea7950a3e739",
+            "home": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "weather": 7
+        },
+        "created": "2020-09-15T18:00:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 0,
+        "day": 32,
+        "phase": 4,
+        "category": 0,
+        "description": "The Canada Moist Talkers vs. The Hades Tigers",
+        "nuts": 237
+    },
+    {
+        "id": "c1dcdaeb-d7cb-4ba8-9c03-214ec1bb906e",
+        "playerTags": [],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:02:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 2,
+        "day": 32,
+        "phase": 4,
+        "category": 0,
+        "description": "Bottom of 1. Canada Moist Talkers batting.",
+        "nuts": 222
+    },
+    {
+        "id": "7aa73af3-57eb-4482-bf2a-49277f5f3490",
+        "playerTags": [
+            "98a98014-9636-4ece-a46a-4625b47c65d5"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:02:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 12,
+        "day": 32,
+        "phase": 4,
+        "category": 0,
+        "description": "Kiki Familia batting for the Moist Talkers.",
+        "nuts": 318
+    },
+    {
+        "id": "a8e3338a-ebab-480d-b558-4dfc91dcefe5",
+        "playerTags": [
+            "98a98014-9636-4ece-a46a-4625b47c65d5"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:02:02.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 54,
+        "day": 32,
+        "phase": 4,
+        "category": 1,
+        "description": "Rogue Umpire incinerated Moist Talkers hitter Kiki Familia!",
+        "nuts": 287
+    },
+    {
+        "id": "5e5f9d95-788a-4425-9d00-d734ce44320f",
+        "playerTags": [
+            "86adac6f-c694-44ac-9560-758de7eac937",
+            "98a98014-9636-4ece-a46a-4625b47c65d5"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "location": 0,
+            "teamName": "Moist Talkers",
+            "inPlayerId": "98a98014-9636-4ece-a46a-4625b47c65d5",
+            "outPlayerId": "86adac6f-c694-44ac-9560-758de7eac937",
+            "inPlayerName": "Quack Enjoyable",
+            "outPlayerName": "Kiki Familia"
+        },
+        "created": "2020-09-15T18:02:03.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 116,
+        "day": 32,
+        "phase": 4,
+        "category": 1,
+        "description": "Quack Enjoyable replaced the incinerated Kiki Familia.",
+        "nuts": 257
+    },
+    {
+        "id": "5492ae82-8b92-45f1-a930-3de7db6ee997",
+        "playerTags": [],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:04:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 2,
+        "day": 32,
+        "phase": 4,
+        "category": 0,
+        "description": "Bottom of 2. Canada Moist Talkers batting.",
+        "nuts": 219
+    },
+    {
+        "id": "03e37175-c305-41d3-93da-3533c4ac43b6",
+        "playerTags": [
+            "248ccf3d-d5f6-4b69-83d9-40230ca909cd"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:04:01.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 12,
+        "day": 32,
+        "phase": 4,
+        "category": 0,
+        "description": "Antonio Wallace batting for the Moist Talkers.",
+        "nuts": 230
+    },
+    {
+        "id": "946fbd30-6f73-464c-a4b1-ff53f99f7e83",
+        "playerTags": [
+            "248ccf3d-d5f6-4b69-83d9-40230ca909cd"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-15T18:04:02.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 54,
+        "day": 32,
+        "phase": 4,
+        "category": 1,
+        "description": "A Debt was collected. Rogue Umpire incinerated Moist Talkers hitter Antonio Wallace!",
+        "nuts": 240
+    },
+    {
+        "id": "bc76fe5a-eb83-42ff-a6dc-ad0e12337500",
+        "playerTags": [
+            "248ccf3d-d5f6-4b69-83d9-40230ca909cd",
+            "dddb6485-0527-4523-9bec-324a5b66bf37"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff",
+            "location": 0,
+            "teamName": "Moist Talkers",
+            "inPlayerId": "dddb6485-0527-4523-9bec-324a5b66bf37",
+            "outPlayerId": "248ccf3d-d5f6-4b69-83d9-40230ca909cd",
+            "inPlayerName": "Beans McBlase",
+            "outPlayerName": "Antonio Wallace"
+        },
+        "created": "2020-09-15T18:04:03.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 116,
+        "day": 32,
+        "phase": 4,
+        "category": 1,
+        "description": "Beans McBlase replaced the incinerated Antonio Wallace.",
+        "nuts": 240
+    },
+    {
+        "id": "804ccb10-de44-4c00-9f4b-56a9127f0742",
+        "playerTags": [
+            "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mod": "MARKED",
+            "type": 2
+        },
+        "created": "2020-09-15T18:04:04.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 106,
+        "day": 32,
+        "phase": 4,
+        "category": 1,
+        "description": "The Instability spread to the Moist Talkers' Mooney Doctor!",
+        "nuts": 231
+    },
+    {
+        "id": "40dcc19c-b638-4b39-aabc-364da8d32cdc",
+        "playerTags": [
+            "2e86de11-a2dd-4b28-b5fe-f4d0c38cd20b"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mods": [
+                "MARKED"
+            ],
+            "type": 2
+        },
+        "created": "2020-09-15T21:35:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 108,
+        "day": 35,
+        "phase": 4,
+        "category": 1,
+        "description": "Zion Aliciakeyes regained Stability.",
+        "nuts": 236
+    },
+    {
+        "id": "32eb8e8c-df1d-4f99-b310-b0e9ab194ad8",
+        "playerTags": [
+            "afc90398-b891-4cdf-9dea-af8a3a79d793"
+        ],
+        "teamTags": [
+            "747b8e4a-7e50-4638-a973-ea7950a3e739"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mods": [
+                "MARKED"
+            ],
+            "type": 2
+        },
+        "created": "2020-09-15T21:35:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 108,
+        "day": 35,
+        "phase": 4,
+        "category": 1,
+        "description": "Yazmin Mason regained Stability.",
+        "nuts": 240
+    },
+    {
+        "id": "49354264-b0c4-4132-a663-d99f6a1a5cbe",
+        "playerTags": [
+            "9ba361a1-16d5-4f30-b590-fc4fc2fb53d2"
+        ],
+        "teamTags": [
+            "eb67ae5e-c4bf-46ca-bbbc-425cd34182ff"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "mods": [
+                "MARKED"
+            ],
+            "type": 2
+        },
+        "created": "2020-09-15T21:35:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 108,
+        "day": 35,
+        "phase": 4,
+        "category": 1,
+        "description": "Mooney Doctor regained Stability.",
+        "nuts": 241
+    }
+]

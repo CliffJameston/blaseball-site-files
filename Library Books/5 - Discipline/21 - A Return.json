@@ -1,0 +1,393 @@
+// 20210621134457
+// https://www.blaseball.com/database/feed/story?id=9114a2e4-3bc1-40b6-ad8e-76e212b3e2ba
+[
+    {
+        "id": "eeaf5f57-bfc1-412b-8c8b-2cf0348acdce",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [
+            "f02aeae2-5e6a-4098-9842-02d2273f25c7"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-07-26T14:00:10.000Z",
+        "season": 0,
+        "tournament": -1,
+        "type": 59,
+        "day": 110,
+        "phase": 13,
+        "category": 3,
+        "description": "The Book Opens.\nSolar Eclipse.\nUmpires' eyes turn white.\nStar player Jaylen Hotdogfingers is incinerated.\nHellmouth swallows the Moab Desert.\nTHE DISCIPLINE ERA BEGINS",
+        "nuts": 75
+    },
+    {
+        "id": "f1155e8a-2dec-4ee9-8ffc-808ee3131a77",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-07-26T14:00:20.000Z",
+        "season": 0,
+        "tournament": -1,
+        "type": 54,
+        "day": 110,
+        "phase": 13,
+        "category": 1,
+        "description": "Rogue Umpire incinerated Jaylen Hotdogfingers!",
+        "nuts": 54
+    },
+    {
+        "id": "0b09e68e-dcab-4812-a9cd-8ecffc37cd5c",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-07-26T14:00:30.000Z",
+        "season": 0,
+        "tournament": -1,
+        "type": 125,
+        "day": 110,
+        "phase": 13,
+        "category": 1,
+        "description": "Jaylen Hotdogfingers entered the Hall of Flame.",
+        "nuts": 53
+    },
+    {
+        "id": "d7263726-43fc-497b-9bbc-42a1bf9c0ff4",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-07-26T14:00:40.000Z",
+        "season": 0,
+        "tournament": -1,
+        "type": 29,
+        "day": 110,
+        "phase": 13,
+        "category": 3,
+        "description": "oh hey",
+        "nuts": 71
+    },
+    {
+        "id": "85d880f7-cb94-4afb-b2b3-04c9bebbe734",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-07-26T14:00:50.000Z",
+        "season": 0,
+        "tournament": -1,
+        "type": 29,
+        "day": 110,
+        "phase": 13,
+        "category": 3,
+        "description": "hotdogfingers",
+        "nuts": 77
+    },
+    {
+        "id": "20c6fbcd-10d5-4811-9d9a-816c890662e0",
+        "playerTags": [],
+        "teamTags": [
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-13T14:01:10.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 60,
+        "day": 109,
+        "phase": 13,
+        "category": 3,
+        "description": "Blessing Won: Lottery Pick, Garages",
+        "nuts": 47
+    },
+    {
+        "id": "4872c168-96dc-48f2-a494-dbf427381e8c",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "c6a277c3-d2b5-4363-839b-950896a5ec5e"
+        ],
+        "teamTags": [
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+            "teamName": "Garages",
+            "addLocation": 0,
+            "addPlayerId": "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "addPlayerName": "Jaylen Hotdogfingers",
+            "retreatLocation": 2,
+            "retreatPlayerId": "6a277c3-d2b5-4363-839b-950896a5ec5e",
+            "retreatPlayerName": "Mike Townsend"
+        },
+        "created": "2020-09-13T14:01:20.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 110,
+        "day": 109,
+        "phase": 13,
+        "category": 3,
+        "description": "FIRE AND SMOKE\nAN EGG\nHATCHING\nJAYLEN HOTDOGFINGERS RETURNS\nMIKE TOWNSEND RETREATS TO SHADOWS",
+        "nuts": 65
+    },
+    {
+        "id": "036f4e6e-134b-4c0a-98d3-ea20e46a0dce",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [
+            "105bc3ff-1320-4e37-8ef0-8d595cb95dd0"
+        ],
+        "gameTags": [],
+        "metadata": {
+            "teamId": "105bc3ff-1320-4e37-8ef0-8d595cb95dd0",
+            "playerId": "04e14d7b-5021-4250-a3cd-932ba8e0a889",
+            "teamName": "Garages",
+            "playerName": "Jaylen Hotdogfingers"
+        },
+        "created": "2020-09-13T14:01:30.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 109,
+        "day": 109,
+        "phase": 13,
+        "category": 1,
+        "description": "The Garages stole Jaylen Hotdogfingers from the Hall of Flame!",
+        "nuts": 59
+    },
+    {
+        "id": "492c9dd5-d433-4014-b051-c48d280c7f3f",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {},
+        "created": "2020-09-13T14:01:00.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 126,
+        "day": 109,
+        "phase": 13,
+        "category": 1,
+        "description": "Jaylen Hotdogfingers was pulled from the Hall of Flame.",
+        "nuts": 56
+    },
+    {
+        "id": "21c25ad0-c503-4a8e-ae0f-7c0a71f06c44",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "mod": "DEBT_ZERO",
+            "type": 0
+        },
+        "created": "2020-09-13T14:01:10.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 106,
+        "day": 109,
+        "phase": 13,
+        "category": 1,
+        "description": "Jaylen Hotdogfingers is Debted.",
+        "nuts": 58
+    },
+    {
+        "id": "ea4febdc-084f-4d14-8245-d97a995e5707",
+        "playerTags": [
+            "04e14d7b-5021-4250-a3cd-932ba8e0a889"
+        ],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "mod": "RETURNED",
+            "type": 0
+        },
+        "created": "2020-09-13T14:01:20.000Z",
+        "season": 5,
+        "tournament": -1,
+        "type": 106,
+        "day": 109,
+        "phase": 13,
+        "category": 1,
+        "description": "Jaylen Hotdogfingers has Returned.",
+        "nuts": 58
+    },
+    {
+        "id": "3fa179c6-f717-4a3a-bef0-5e2a9ba93335",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:01:40.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "who was that",
+        "nuts": 56
+    },
+    {
+        "id": "740b7c4f-a489-4dc2-a6bc-a12e81239196",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:01:50.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "is it an egg",
+        "nuts": 56
+    },
+    {
+        "id": "cfd4f900-c874-458f-a946-413e76c2dc36",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "never ate an egg before",
+        "nuts": 62
+    },
+    {
+        "id": "085025f9-146a-4af6-88c4-3a70ae88477c",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:10.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "where is hotdogfingers",
+        "nuts": 59
+    },
+    {
+        "id": "a6547911-b670-4dc8-be63-b49fe79f96be",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:20.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "followed hotdogfingers here",
+        "nuts": 59
+    },
+    {
+        "id": "fe50bd9c-4616-4f89-9dfa-dcd386fbf2bc",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:30.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "from the hall",
+        "nuts": 56
+    },
+    {
+        "id": "7ae123ec-6ec7-4073-91ba-5a8c058e50ce",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:00.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "from the trench",
+        "nuts": 57
+    },
+    {
+        "id": "1b4fa99b-104a-4618-b08b-31b2603ce9e9",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:10.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "i am gonna watch",
+        "nuts": 58
+    },
+    {
+        "id": "7d4a0dbe-ece4-4fe3-89c4-d0037ba5353e",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "1"
+        },
+        "created": "2020-09-18T14:02:20.000Z",
+        "season": 6,
+        "tournament": -1,
+        "type": 29,
+        "day": 98,
+        "phase": 13,
+        "category": 3,
+        "description": "see if that egg comes back",
+        "nuts": 59
+    }
+]
