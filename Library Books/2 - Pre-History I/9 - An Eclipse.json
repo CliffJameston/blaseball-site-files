@@ -1,0 +1,173 @@
+// 20210622125050
+// https://www.blaseball.com/database/feed/story?id=c6baacaf-3141-4efb-95b0-65251b31da1c
+[
+    {
+        "id": "0a918d3b-76ab-455f-93f0-0ee195186cd3",
+        "playerTags": [],
+        "teamTags": [],
+        "gameTags": [],
+        "metadata": {
+            "being": "5"
+        },
+        "created": "2021-06-21T17:57:34.000Z",
+        "season": 20,
+        "tournament": -1,
+        "type": 29,
+        "day": -1,
+        "phase": 0,
+        "category": 3,
+        "description": "\"The First.\"",
+        "nuts": 4
+    },
+    {
+        "id": "6e134bb9-a5f0-4c42-9f63-54b9b671d976",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1984-09-05T14:00:10.000Z",
+        "season": -98,
+        "tournament": -1,
+        "type": -1,
+        "day": 186,
+        "phase": 13,
+        "category": -1,
+        "description": "|||||| ||||||||| |||| ||||||||||| || ||||| ||||| ||| ||||||| ||||||||| |||||| |||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "1cf83304-46ac-4290-abb8-a5d7367831ad",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1985-03-15T14:00:30.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": -1,
+        "day": 14,
+        "phase": 2,
+        "category": -1,
+        "description": "||||||| ||||||||| || ||||||| ||||||",
+        "nuts": 0
+    },
+    {
+        "id": "78d7fec7-1c5d-413f-b4d3-ca26129b23c0",
+        "playerTags": [],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1985-03-15T14:00:40.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": 2,
+        "day": 14,
+        "phase": 2,
+        "category": 0,
+        "description": "Bottom of 7. Alaskan Immortals batting.",
+        "nuts": 3
+    },
+    {
+        "id": "2f0550db-082e-49ee-8dbf-9a6b430319cc",
+        "playerTags": [
+            "5d3c5190-967f-4711-9542-9f03b6978f4a"
+        ],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1985-03-15T14:00:50.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": 12,
+        "day": 14,
+        "phase": 2,
+        "category": 0,
+        "description": "Blossom LaBelle batting for the Immortals.",
+        "nuts": 3
+    },
+    {
+        "id": "ddb9c00d-140c-4ca5-9cbf-b66e986bc9e7",
+        "playerTags": [],
+        "teamTags": [
+            "88151292-6c12-4fb8-b2d6-3e64821293b3"
+        ],
+        "gameTags": [],
+        "metadata": {},
+        "created": "1985-03-15T14:01:00.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": 54,
+        "day": 14,
+        "phase": 2,
+        "category": 2,
+        "description": "A Rogue Umpire Incinerated the Alaskan Immortals!",
+        "nuts": 3
+    },
+    {
+        "id": "d02d0e7e-6c68-4ff7-9b41-6ff772ea2380",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1985-03-15T14:01:10.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": -1,
+        "day": 14,
+        "phase": 2,
+        "category": -1,
+        "description": "||| |||||||| |||| |||||||| ||| ||||||||||| ||||||| ||||||||||",
+        "nuts": 0
+    },
+    {
+        "id": "6fb57adb-229b-416e-9435-e2f91c555fd7",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1985-03-15T14:01:20.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": -1,
+        "day": 14,
+        "phase": 2,
+        "category": -1,
+        "description": "||| ||||||||||| ||||||| || ||| ||||||| |||||||",
+        "nuts": 0
+    },
+    {
+        "id": "2f676cfe-27b3-454c-bd1a-40c3d4cb4757",
+        "playerTags": null,
+        "teamTags": null,
+        "gameTags": null,
+        "metadata": {
+            "redacted": true,
+            "scales": 0
+        },
+        "created": "1985-03-15T14:01:30.000Z",
+        "season": -97,
+        "tournament": -1,
+        "type": -1,
+        "day": 14,
+        "phase": 2,
+        "category": -1,
+        "description": "|||| || |||||| |",
+        "nuts": 0
+    }
+]
